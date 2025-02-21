@@ -12,6 +12,8 @@ Tested with:
     - Mac with Apple Silicon
 - podman
     - Mac with Apple Silicon and podman desktop
+- orbstack
+    - Mac with Apple Silicon
 
 I could not get it to run with:
 - podman
