@@ -10,6 +10,8 @@ Tested with:
     - ubuntu
     - WSL with docker desktop on Windows
     - Mac with Apple Silicon
+- podman
+    - Mac with Apple Silicon and podman desktop
 
 I could not get it to run with:
 - podman
