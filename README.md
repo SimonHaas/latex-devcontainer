@@ -1,10 +1,22 @@
 # latex devcontainer
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/SimonHaas/latex-devcontainer?quickstart=1)
+
 This is a latex environment inside a devcontainer.
 
 Tested with:
 - github codespaces
 - docker
+    - ubuntu
+    - WSL with docker desktop on Windows
+
+I could not get it to run with:
+- podman
+    - ubuntu
+    - WSL with podman desktop
+    - WSL with `apt install podman`
+
+Also it only works with amd64, sadly no arm support.
 
 .tex files should be rendered automatically, if not you can do it manually:
 
