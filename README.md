@@ -4,6 +4,7 @@ This is a latex environment inside a devcontainer.
 
 Tested with:
 - github codespaces
+- docker
 
 .tex files should be rendered automatically, if not you can do it manually:
 
