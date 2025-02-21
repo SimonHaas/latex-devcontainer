@@ -9,14 +9,13 @@ Tested with:
 - docker
     - ubuntu
     - WSL with docker desktop on Windows
+    - Mac with Apple Silicon
 
 I could not get it to run with:
 - podman
     - ubuntu
     - WSL with podman desktop
     - WSL with `apt install podman`
-
-Also it only works with amd64, sadly no arm support.
 
 .tex files should be rendered automatically, if not you can do it manually:
 
